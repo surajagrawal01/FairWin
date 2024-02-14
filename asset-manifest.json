@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/FairWin/static/css/main.dc51a113.css",
+    "main.js": "/FairWin/static/js/main.a5c3cb09.js",
+    "static/js/592.7f72a991.chunk.js": "/FairWin/static/js/592.7f72a991.chunk.js",
+    "static/media/Basketball.jpg": "/FairWin/static/media/Basketball.4967e48f8b373d2f484e.jpg",
+    "static/media/Tennis.jpg": "/FairWin/static/media/Tennis.b0c22a0d212beb5850f9.jpg",
+    "static/media/cricket3.webp": "/FairWin/static/media/cricket3.4024e990b831c70bbfec.webp",
+    "static/media/rohitshrma.jpg": "/FairWin/static/media/rohitshrma.c268cba66761e79d98ab.jpg",
+    "static/media/football.jpg": "/FairWin/static/media/football.bc60eb3c1f7683b30f09.jpg",
+    "static/media/football2.jpg": "/FairWin/static/media/football2.a6fb93e312aa7fdfae0b.jpg",
+    "static/media/dd.jpg": "/FairWin/static/media/dd.fb6885eecd0dbf1cd4b3.jpg",
+    "static/media/casino.jpg": "/FairWin/static/media/casino.710c9d402d265bada5c7.jpg",
+    "static/media/Logo1.jpg": "/FairWin/static/media/Logo1.7afc44265fd720988fe0.jpg",
+    "index.html": "/FairWin/index.html",
+    "main.dc51a113.css.map": "/FairWin/static/css/main.dc51a113.css.map",
+    "main.a5c3cb09.js.map": "/FairWin/static/js/main.a5c3cb09.js.map",
+    "592.7f72a991.chunk.js.map": "/FairWin/static/js/592.7f72a991.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc51a113.css",
+    "static/js/main.a5c3cb09.js"
+  ]
+}
